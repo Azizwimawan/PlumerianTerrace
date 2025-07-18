@@ -1,0 +1,176 @@
+[
+  {
+    "id": "prop-001",
+    "title": "Luxury Marina Bay Penthouse",
+    "type": "Condominium",
+    "price": 3800000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "sqft": 2200,
+    "location": {
+      "address": "Marina Bay Residences, Singapore 018956",
+      "lat": 1.2806,
+      "lng": 103.8568
+    },
+    "images": [
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2462015/pexels-photo-2462015.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Stunning penthouse with panoramic city and marina views. Premium finishes throughout with marble flooring, designer kitchen, and private balcony overlooking the Singapore skyline.",
+    "amenities": ["Swimming Pool", "Gym", "24/7 Security", "Concierge", "Sky Garden", "BBQ Area"],
+    "status": "Available",
+    "agent": "Sarah Chen",
+    "agentPhone": "+65 9123 4567",
+    "dateAdded": "2024-01-15",
+    "featured": true,
+    "propertyType": "Sale",
+    "tenure": "Freehold",
+    "psf": 1727
+  },
+  {
+    "id": "prop-002",
+    "title": "Modern Sentosa Cove Villa",
+    "type": "Landed",
+    "price": 5200000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "sqft": 3500,
+    "location": {
+      "address": "Sentosa Cove, Singapore 098374",
+      "lat": 1.2494,
+      "lng": 103.8303
+    },
+    "images": [
+      "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2724748/pexels-photo-2724748.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Contemporary waterfront villa with private dock and garden. Features smart home automation, wine cellar, and infinity pool with direct marina access.",
+    "amenities": ["Private Pool", "Garden", "Smart Home", "Wine Cellar", "Private Dock", "Maid's Room"],
+    "status": "Available",
+    "agent": "Michael Tan",
+    "agentPhone": "+65 9876 5432",
+    "dateAdded": "2024-01-20",
+    "featured": true,
+    "propertyType": "Sale",
+    "tenure": "Freehold",
+    "psf": 1486
+  },
+  {
+    "id": "prop-003",
+    "title": "Executive Bishan HDB Maisonette",
+    "type": "HDB",
+    "price": 950000,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "sqft": 1600,
+    "location": {
+      "address": "Bishan Street 13, Singapore 570132",
+      "lat": 1.3521,
+      "lng": 103.8198
+    },
+    "images": [
+      "https://images.pexels.com/photos/2724748/pexels-photo-2724748.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Spacious executive maisonette in prime Bishan location. Recently renovated with modern fixtures, near MRT station and top schools. Perfect for families.",
+    "amenities": ["Near MRT", "Shopping Mall", "Schools", "Parks", "Playground", "Food Court"],
+    "status": "Under Offer",
+    "agent": "Lisa Wong",
+    "agentPhone": "+65 8765 4321",
+    "dateAdded": "2024-01-25",
+    "featured": false,
+    "propertyType": "Sale",
+    "tenure": "99-year Leasehold",
+    "psf": 594
+  },
+  {
+    "id": "prop-004",
+    "title": "Orchard Road Luxury Apartment",
+    "type": "Condominium",
+    "price": 2800000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "sqft": 1400,
+    "location": {
+      "address": "Orchard Boulevard, Singapore 238858",
+      "lat": 1.3048,
+      "lng": 103.8318
+    },
+    "images": [
+      "https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2462015/pexels-photo-2462015.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Prime Orchard Road location with city views. Walking distance to shopping, dining, and entertainment. Premium development with excellent facilities.",
+    "amenities": ["Swimming Pool", "Gym", "Function Room", "Tennis Court", "Sauna", "Parking"],
+    "status": "Available",
+    "agent": "David Lim",
+    "agentPhone": "+65 9234 5678",
+    "dateAdded": "2024-02-01",
+    "featured": false,
+    "propertyType": "Sale",
+    "tenure": "Freehold",
+    "psf": 2000
+  },
+  {
+    "id": "prop-005",
+    "title": "East Coast Beachfront Condo",
+    "type": "Condominium",
+    "price": 1850000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "sqft": 1100,
+    "location": {
+      "address": "East Coast Road, Singapore 428751",
+      "lat": 1.3010,
+      "lng": 103.9065
+    },
+    "images": [
+      "https://images.pexels.com/photos/2724748/pexels-photo-2724748.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Beachfront living at its finest. Wake up to ocean views and enjoy direct beach access. Perfect for those seeking a resort-style lifestyle in the city.",
+    "amenities": ["Beach Access", "Swimming Pool", "Gym", "BBQ Pits", "Playground", "Security"],
+    "status": "Available",
+    "agent": "Jennifer Ng",
+    "agentPhone": "+65 8123 4567",
+    "dateAdded": "2024-02-05",
+    "featured": false,
+    "propertyType": "Sale",
+    "tenure": "99-year Leasehold",
+    "psf": 1682
+  },
+  {
+    "id": "prop-006",
+    "title": "Tanjong Pagar Shophouse",
+    "type": "Shophouse",
+    "price": 4500000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "sqft": 2800,
+    "location": {
+      "address": "Tanjong Pagar Road, Singapore 088450",
+      "lat": 1.2762,
+      "lng": 103.8435
+    },
+    "images": [
+      "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/2462015/pexels-photo-2462015.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "description": "Beautifully restored heritage shophouse in the heart of Tanjong Pagar. Combines historical charm with modern amenities. Ideal for both residential and commercial use.",
+    "amenities": ["Heritage Building", "Central Location", "High Ceilings", "Courtyard", "Parking", "Commercial Potential"],
+    "status": "Available",
+    "agent": "Robert Tan",
+    "agentPhone": "+65 9345 6789",
+    "dateAdded": "2024-02-10",
+    "featured": true,
+    "propertyType": "Sale",
+    "tenure": "Freehold",
+    "psf": 1607
+  }
+]

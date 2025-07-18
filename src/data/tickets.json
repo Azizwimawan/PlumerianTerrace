@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ticket-001",
+    "propertyId": "prop-001",
+    "title": "Air Conditioning Issue - Master Bedroom",
+    "description": "Client reported that the air conditioning unit in the master bedroom is not cooling effectively. Needs immediate attention before viewing.",
+    "status": "Open",
+    "priority": "High",
+    "assignee": "John Smith",
+    "reporter": "Sarah Chen",
+    "createdDate": "2024-02-15T10:30:00Z",
+    "updatedDate": "2024-02-15T10:30:00Z",
+    "comments": [
+      {
+        "id": "comment-001",
+        "author": "Sarah Chen",
+        "content": "Client mentioned this during the phone inquiry. Scheduling maintenance check.",
+        "timestamp": "2024-02-15T10:30:00Z",
+        "attachments": []
+      }
+    ],
+    "attachments": []
+  },
+  {
+    "id": "ticket-002",
+    "propertyId": "prop-002",
+    "title": "Pool Maintenance Required",
+    "description": "Weekly pool cleaning and chemical balancing needed before weekend viewings",
+    "status": "In Progress",
+    "priority": "Medium",
+    "assignee": "Alex Johnson",
+    "reporter": "Michael Tan",
+    "createdDate": "2024-02-14T14:00:00Z",
+    "updatedDate": "2024-02-15T09:15:00Z",
+    "comments": [
+      {
+        "id": "comment-002",
+        "author": "Alex Johnson",
+        "content": "Pool cleaning scheduled for tomorrow morning. Will update with photos.",
+        "timestamp": "2024-02-15T09:15:00Z",
+        "attachments": []
+      }
+    ],
+    "attachments": []
+  },
+  {
+    "id": "ticket-003",
+    "propertyId": "prop-003",
+    "title": "Touch-up Paint Work",
+    "description": "Minor scuff marks on walls in living room need touch-up painting",
+    "status": "Resolved",
+    "priority": "Low",
+    "assignee": "David Lee",
+    "reporter": "Lisa Wong",
+    "createdDate": "2024-02-12T11:20:00Z",
+    "updatedDate": "2024-02-14T16:45:00Z",
+    "comments": [
+      {
+        "id": "comment-003",
+        "author": "David Lee",
+        "content": "Paint work completed. Property is now viewing-ready.",
+        "timestamp": "2024-02-14T16:45:00Z",
+        "attachments": ["paint_work_completed.jpg"]
+      }
+    ],
+    "attachments": ["before_paint.jpg", "after_paint.jpg"]
+  },
+  {
+    "id": "ticket-004",
+    "propertyId": "prop-004",
+    "title": "Elevator Maintenance Notice",
+    "description": "Building management scheduled elevator maintenance. Need to inform potential buyers about temporary inconvenience.",
+    "status": "Open",
+    "priority": "Medium",
+    "assignee": "David Lim",
+    "reporter": "Building Management",
+    "createdDate": "2024-02-16T08:00:00Z",
+    "updatedDate": "2024-02-16T08:00:00Z",
+    "comments": [
+      {
+        "id": "comment-004",
+        "author": "David Lim",
+        "content": "Will reschedule viewings to avoid maintenance hours (9 AM - 12 PM tomorrow).",
+        "timestamp": "2024-02-16T08:30:00Z",
+        "attachments": []
+      }
+    ],
+    "attachments": ["maintenance_notice.pdf"]
+  }
+]
