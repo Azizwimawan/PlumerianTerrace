@@ -2,7 +2,7 @@
   {
     "id": "ticket-001",
     "propertyId": "prop-001",
-    "title": "Air Conditioning Issue - Master Bedroom",
+    "title": "Test Issue - Master Bedroom",
     "description": "Client reported that the air conditioning unit in the master bedroom is not cooling effectively. Needs immediate attention before viewing.",
     "status": "Open",
     "priority": "High",

@@ -13,19 +13,19 @@ const Contact: React.FC = () => {
 
   const handleWhatsAppClick = () => {
     const message = encodeURIComponent("Hello! I'm interested in your property listings. Could you please provide more information?");
-    window.open(`https://wa.me/6591234567?text=${message}`, '_blank');
+    window.open(`https://wa.me/6285715473536?text=${message}`, '_blank');
   };
 
   const handleInstagramClick = () => {
-    window.open('https://instagram.com/propertyhub_sg', '_blank');
+    window.open('https://instagram.com/zahirhouses', '_blank');
   };
 
   const handlePhoneClick = () => {
-    window.open('tel:+6591234567');
+    window.open('tel:+6285715473536');
   };
 
   const handleEmailClick = () => {
-    window.open('mailto:contact@propertyhub.sg');
+    window.open('mailto:azizwimawan@gmail.com');
   };
 
   const handleSubmit = (e: React.FormEvent) => {
